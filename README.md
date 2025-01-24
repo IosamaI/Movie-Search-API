@@ -1,5 +1,11 @@
 # TV Show and Movie Search
 
+![Screenshot 2025-01-25 010747](https://github.com/user-attachments/assets/b7b376f3-cec2-4504-aa9e-77e1eaffd02c)
+
+
+
+
+
 ## Overview
 This project is a simple web application that allows users to search for TV shows and movies using the [TVmaze API](https://www.tvmaze.com/api). Users can enter a query into the search bar, and the application fetches and displays images of shows that match the query.
 
